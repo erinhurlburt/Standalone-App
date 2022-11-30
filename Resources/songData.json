@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Something",
+        "genre": "Classic Rock",
+        "album": "Abbey Road",
+        "artist": "The Beatles",
+        "id": 1001,
+        "isFavorite": true,
+        "isLiked": false,
+        "isDisliked": false,
+        "lyrics": "Something in the way she moves Attracts me like no other lover Something in the way she woos me I don't want to leave her now You know I believe and how Somewhere in her smile she knows That I don't need no other lover Something in her style that shows me I don't want to leave her now You're asking me will my love grow I don't know, I don't know Something in the way she knows And all I have to do is think about her Somthing in the things she shows me I don't want to leave her now You know I believe and how",
+    
+        "color": "Color(red: 102.0 / 250, green: 174.0 / 255, blue: 255.0 / 255)",
+        "imageName": "TheBeatles",
+        "albumImageName": "BeatlesCover"
+    },
+    {
+        "name": "Don't Stop Me Now",
+        "genre": "Classic Rock",
+        "album": "Jazz",
+        "artist": "Queen",
+        "id": 1002,
+        "isFavorite": false,
+        "isLiked": false,
+        "isDisliked": false,
+        "lyrics": "Tonight I'm gonna have myself a real good time I feel alive And the world I'll turn it inside out, yeah I'm floating around in ecstasy So, (don't stop me now) (Don't stop me) 'Cause I'm having a good time, having a good time I'm a shooting star leaping through the sky Like a tiger defying the laws of gravity I'm a racing car passing by like Lady Godiva I'm gonna go, go, go There's no stopping me I'm burnin' through the sky, yeah 200 degrees That's why they call me Mister Fahrenheit I'm travelling at the speed of light I wanna make a supersonic man out of you I'm having such a good time I'm having a ball (Don't stop me now) If you wanna have a good time just give me a call (Don't stop me now) 'Cause I'm having a good time (Don't stop me now) Yes, I'm havin' a good time I don't want to stop at all Yeah, I'm a rocket ship on my way to Mars On a collision course I am a satellite I'm out of control I am a sex machine ready to reload Like an atom bomb about to Oh, oh, oh, oh, oh, explode I'm burnin' through the sky, yeah 200 degrees That's why they call me Mister Fahrenheit I'm travelling at the speed of light I wanna make a supersonic woman of you Don't stop me, don't stop me Don't stop me, hey, hey, hey Don't stop me, don't stop me Ooh, ooh, ooh, I like it Don't stop me, don't stop me Have a good time, good time Don't stop me, don't stop me, ah Let loose, honey, all right Oh, I'm burnin' through the sky, yeah 200 degrees That's why they call me Mister Fahrenheit I'm travelling at the speed of light I wanna make a supersonic man out of you I'm having such a good time I'm having a ball (Don't stop me now) If you wanna have a good time (alright) Just give me a call (Don't stop me now)'Cause  I'm having a good time (Don't stop me now) Yes, I'm havin' a good time I don't want to stop at allLa-da-da-da-dah Da-da-da-ha Ha-da-da, ha-ha-ha Ha-da-da, ha-da-da-ah",
+        
+        "color": "Color(red: 255.0 / 250, green: 102.0 / 255, blue: 200.0 / 255)",
+        "imageName": "Queen",
+        "albumImageName": "QueenCover"
+    },
+    {
+        "name": "(I Can't Get No) Satisfaction",
+        "genre": "Classic Rock",
+        "album": "Out of Our Heads",
+        "artist": "The Rolling Stones",
+        "id": 1003,
+        "isFavorite": false,
+        "isLiked": false,
+        "isDisliked": false,
+        "lyrics": "I can't get no satisfaction I can't get no satisfaction 'Cause I try, and I try, and I try, and I try I can't get no, I can't get no When I'm driving in my car When a man come on the radio He's telling me more and more About some useless information Supposed to fire my imagination I can't get no, oh, no, no, no, hey, hey, hey That's what I say I can't get no satisfaction I can't get no satisfaction 'Cause I try, and I try, and I try, and I try I can't get no, I can't get no When I'm watchin' my TV And a man comes on and tells me How white my shirts can be But, he can't be a man 'cause he doesn't smoke The same cigarettes as me I can't get no, oh, no, no, no, hey, hey, hey That's what I say I can't get no satisfaction I can't get no girl reaction 'Cause I try, and I try, and I try, and I try I can't get no, I can't get no When I'm ridin' 'round the world And I'm doin' this and I'm signin' that And I'm tryin' to make some girl, who tells me Baby, better come back maybe next week Can't you see I'm on a losing streak? I can't get no, oh, no, no, no, hey, hey, hey That's what I say I can't get no, I can't get no I can't get no satisfaction, no satisfaction No satisfaction, no satisfaction I can't get no",
+        
+        "color": "Color(red: 162.0 / 250, green: 215.0 / 255, blue: 149.0 / 255)",
+        "imageName": "TheStones",
+        "albumImageName": "StonesCover"
+    },
+    {
+        "name": "Play that Funky Music",
+        "genre": "Classic Rock",
+        "album": "Wild Cherry",
+        "artist": "Wild Cherry",
+        "id": 1004,
+        "isFavorite": false,
+        "isLiked": false,
+        "isDisliked": false,
+        "lyrics": "Hey, do it now Hey, once I was a boogie singer Playin' in a rock-and-roll band I never had no problems Burnin' down the one-night stands And everything around me Got to start to feelin' so low And I decided quickly Yes, I did To disco down and check out the show Yeah they were dancin' and singin' And movin' to the groovin' And just when it hit me Somebody turned around and shouted 'Play that funky music, white boy Play that funky music right Play that funky music, white boy Lay down that boogie And play that funky music 'til you die.' 'Til you die? I tried to understand this I thought that they were out of their minds How could I be so foolish To not see I was the one behind So still I kept on fighting Well, losing every step by the way ... we can do I said, I must go back there I got to go back And check to see if things still the same When they were dancin' and singin' And movin' to the groovin' And just when it hit me Somebody turned around and shouted 'Play that funky music, white boy Play that funky music right Play that funky music, white boy Lay down that boogie And play that funky music 'til you die.' 'Til you die? Oh, 'til you die Gonna play some electrified funky music Hey, wait a minute Now first it wasn't easy Changing rock-and-rolling minds And things were gettin' shaky I thought I'd have to leave it behind Oh, but now it's so much better (it's so much better) I'm funking out in every way But I'll never lose that feelin' (you know, I won't) Of how I learned my lesson that day When they were dancin' and singin' And movin' to the groovin' And just when it hit me Somebody turned around and shouted 'Play that funky music, white boy Play that funky music right Play that funky music, white boy Lay down that boogie And play that funky music 'til you die.' 'Til you die? Oh, 'til you die They shouted 'Play that funky music Play that funky music Play that funky music You got to keep on playin' funky music Play that funky music Play that funky music Play that funky music Gonna take you high and low.' 'Play that funky music, white boy Play that funky music right Play that funky music, white boy Play that funky music right Play that funky music, white boy Play that funky music right Play that funky music, white boy Play that funky music right",
+        
+        "color": "Color(red: 255.0 / 250, green: 155.0 / 255, blue: 195.0 / 255)",
+        "imageName": "WildCherry",
+        "albumImageName": "WCCover"
+    },
+    {
+        "name": "Old Time Rock and Roll",
+        "genre": "Classic Rock",
+        "album": "Stranger in Town",
+        "artist": "Bob Seger",
+        "id": 1005,
+        "isFavorite": false,
+        "isLiked": false,
+        "isDisliked": false,
+        "lyrics": "Just take those old records off the shelf I'll sit and listen to 'em by myself Today's music ain't got the same soul I like that old time rock and roll Don't try to take me to a disco You'll never even get me out on the floor In ten minutes I'll be late for the door I like that old time rock and roll Everybody Old time rock and roll That kinda music just soothes the soul I reminisce about the days of old With that old time rock and roll, Drew Abbott! Won't go to hear 'em play a tango I'd rather hear some blues or funky old soul There's only one sure way to get me to go Start playin' old time rock and roll Call me a relic, call me what you will Say I'm old fashioned, say I'm over the hill Today's music ain't got the same soul I like that old time rock and roll Still like that old time rock and roll That kinda music just soothes the soul I reminisce about the days of old With that old time rock and roll Old time rock and roll Baby, just soothes the soul I reminisce about the days of old With that old time rock and roll Everybody come on Old time rock and roll Baby, just soothes the soul I reminisce about the days of old With that old time rock and roll Old time rock and roll It just soothes the soul I reminisce about the days of old With that old time rock and roll It's not like the old time rock and roll Alright Alright Alright, just one more",
+        
+        "color": "Color(red: 213.0 / 250, green: 175.0 / 255, blue: 255.0 / 255)",
+        "imageName": "BobSeger",
+        "albumImageName": "BSCover"
+    },
+    {
+        "name": "Dancing Queen",
+        "genre": "Classic Rock",
+        "album": "Thank You for the Music",
+        "artist": "Abba",
+        "id": 1006,
+        "isFavorite": false,
+        "isLiked": false,
+        "isDisliked": false,
+        "lyrics": "You can dance, you can jive, having the time of your life See that girl, watch that scene, diggin' the dancing queen Friday night and the lights are low Looking out for the place to go Where they play the right music, getting in the swing You come in to look for a king Anybody could be that guy Night is young and the music's high With a bit of rock music, everything is fine You're in the mood for a dance And when you get the chance... You are the dancing queen, young and sweet, only seventeen Dancing queen, feel the beat from the tambourine You can dance, you can jive, having the time of your life See that girl, watch that scene, diggin' the dancing queen You're a teaser, you turn 'em on Leave them burning and then you're gone Looking out for another, anyone will do You're in the mood for a dance And when you get the chance... You are the dancing queen, young and sweet, only seventeen Dancing queen, feel the beat from the tambourine You can dance, you can jive, having the time of your life See that girl, watch that scene, diggin' the dancing queen",
+        
+        "color": "Color(red: 175.0 / 250, green: 229.0 / 255, blue: 255.0 / 255)",
+        "imageName": "Abba",
+        "albumImageName": "AbbaCover"
+    },
+    {
+        "name": "Your Song",
+        "genre": "Classic Rock",
+        "album": "Elton John",
+        "artist": "Elton John",
+        "id": 1007,
+        "isFavorite": false,
+        "isLiked": false,
+        "isDisliked": false,
+        "lyrics": "It's a little bit funny, this feeling inside I'm not one of those who can easily hide I don't have much money, but, boy, if I did I'd buy a big house where we both could live If I was a sculptor, heh, but then again, no Or a man who makes potions in a traveling show I know it's not much, but it's the best I can do My gift is my song, and this one's for you And you can tell everybody this is your song It may be quite simple, but now that it's done I hope you don't mind, I hope you don't mind that I put down in words How wonderful life is while you're in the world I sat on the roof and kicked off the moss Well, a few of the verses, well, they've got me quite cross But the sun's been quite kind while I wrote this song It's for people like you that keep it turned on So excuse me forgetting, but these things I do You see, I've forgotten if they're green or they're blue Anyway, the thing is, what I really mean Yours are the sweetest eyes I've ever seen And you can tell everybody this is your song It may be quite simple, but now that it's done I hope you don't mind, I hope you don't mind that I put down in words How wonderful life is while you're in the world I hope you don't mind, I hope you don't mind that I put down in words How wonderful life is while you're in the world",
+        
+        "color": "Color(red: 253.0 / 250, green: 250.0 / 255, blue: 172.0 / 255)",
+        "imageName": "EltonJohn",
+        "albumImageName": "EJCover"
+    },
+    {
+        "name": "(Oh) Pretty Woman",
+        "genre": "Classic Rock",
+        "album": "Diver Down",
+        "artist": "Van Halen",
+        "id": 1008,
+        "isFavorite": false,
+        "isLiked": false,
+        "isDisliked": false,
+        "lyrics": "Pretty woman, walkin' down the street Pretty woman the kind I like to meet Pretty woman I don't believe you, you're not the truth No one could look as good as you, mercy Pretty woman won't you pardon me Pretty woman I couldn't help but see Pretty woman that you look lovely as can be Are you lonely just like me Pretty woman stop awhile Pretty woman talk awhile Pretty woman give your smile to me Pretty woman yeah, yeah, yeah Pretty woman look my way Pretty woman say you'll stay with me 'Cause I need you, I'll treat you right Come with me baby, be mine tonight Pretty woman don't walk on by Pretty woman don't make me cry Pretty woman don't walk away, hey, OK If that's the way it must be, OK I guess I'll go on home, it's late There'll be tomorrow night, but wait What do I see? Is she walkin' back to me? Yeah, she's walkin' back to me Oh, oh, pretty woman.",
+        
+        "color": "Color(red: 255.0 / 250, green: 166.0 / 255, blue: 166.0 / 255)",
+        "imageName": "VanHalen",
+        "albumImageName": "VHCover"
+    },
+]
+
